@@ -1,0 +1,28 @@
+{
+  "name": "banner-footer-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Adaptation of webpack banner plugin to allow for footer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtothefp/banner-footer-webpack-plugin"
+  },
+  "keywords": [
+    "webpack",
+    "banner",
+    "footer",
+    "concat"
+  ],
+  "author": "David Fox-Powell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtothefp/banner-footer-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/dtothefp/banner-footer-webpack-plugin",
+  "dependencies": {
+    "webpack-core": "^0.4.8"
+  }
+}
